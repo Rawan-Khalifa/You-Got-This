@@ -12,6 +12,7 @@ print(data.files)
 
 # In[3]:
 
+#Prompt [1]
 
 import matplotlib.pyplot as plt
 
@@ -29,6 +30,7 @@ plt.show()
 
 # In[4]:
 
+#Prompt [2]
 
 # Define the filter 
 #subtracts each pixel value from the maximum possible pixel value 
@@ -46,6 +48,7 @@ plt.show()
 
 # In[5]:
 
+#Prompt [3]
 
 # adapted from "https://levelup.gitconnected.com/introduction-to-histogram-equalization-for-digital-image-enhancement-420696db9e43"
 #this contrast enhancement filter to improve the contrast by redistributing pixel intensities
